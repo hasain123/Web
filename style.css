@@ -1,0 +1,66 @@
+.header{
+    font-size: 20px  ;
+
+}
+
+
+
+.math{
+    text-align: center;
+    border: 2px solid rgb(13, 13, 14) !important;
+}
+
+.form{
+    margin: 55px;
+    padding: 200px  300px ;
+    
+}
+#addbtn{
+    padding:50 ;
+    color:rebeccapurple  !important;
+    background-color: antiquewhite !important;
+    text-align: center;
+    align-self: center;
+    font-weight: bold;
+
+}
+
+.nav{
+    font-weight: bolder;
+}
+
+.navbar-brand{
+    font-size: 6px;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* .style{
+    font-style:bold; 
+    font-size:15px;
+}
+  */
+
+
+#main{
+    margin: 80px 75px;
+}
+
+#link{
+    background-color: rgb(130, 175, 196);
+}
+
+p.bold{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+a.link{
+    color: rgb(228, 224, 27);
+}
+
+a#one:hover{
+    color: rgb(7, 160, 53);
+}
